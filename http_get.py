@@ -1,5 +1,11 @@
 #!/usr/bin/python3
 
+###########
+#
+# Given a TW stock num, return instant stock info
+#
+###########
+
 import urllib.request
 import ssl
 import json
